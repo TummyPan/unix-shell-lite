@@ -91,7 +91,10 @@ Documents   Library     Music       Public
 > This might happen if the command was mis-typed or if the program corresponding to that command
 > is not installed.
 {: .callout}
-
+v
+## MINGW64
+>MINGW64 is 'Minimum GNU for Windows 64 bit'. It's the name of a >compiler used to build an extra copy of bash that "git for Windows" includes.
+{: .callout}
 
 ## Nelle's Pipeline: A Typical Problem
 
