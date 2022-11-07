@@ -18,13 +18,22 @@ cryptic its commands and operation can be."
 ---
 ### Background
 
-There are many different ways for humans and computers to interact, such clicking a mouse and using menu-driven interactions through a **graphical user interface** (GUI), touch screen interfaces, or speech recognition. But for repetitive tasks, using GUI will take a long time and it is also easier to make some mistakes. This is where we take advantage of the Unix shell. The Unix shell is both a **command-line interface** (CLI) and a scripting language. With the proper commands, you can complete some repetitive task much faster than using a GUI. 
+There are many different ways for humans and computers to interact,
+such clicking a mouse and using menu-driven interactions through a **graphical user interface** (GUI),
+touch screen interfaces, or speech recognition.
+But for repetitive tasks, using GUI will take a long time and it is also easier to make some mistakes.
+This is where we take advantage of the Unix shell.
+The Unix shell is both a **command-line interface** (CLI) and a scripting language.
+With the proper commands, you can complete some repetitive task much faster than using a GUI. 
 
 
 ### The Shell
 
 The shell is a program where users can type commands.
-With the shell, it's possible to invoke complicated programs like climate modeling software or simple commands that create an empty directory with only one line of code. The most popular Unix shell is Bash, and it is the default shell on most modern implementations of Unix and in most packages that provide Unix-like tools for Windows.
+With the shell, it's possible to invoke complicated programs like climate modeling
+software or simple commands that create an empty directory with only one line of code.
+The most popular Unix shell is Bash, and it is the default shell on most modern implementations
+of Unix and in most packages that provide Unix-like tools for Windows.
 
 To use shell, you need to learn a few commands like new vocabulary in a language you're studying. The grammar of a shell allows you to combine existing tools into powerful pipelines and handle large volumes of data automatically. Sequences of commands can be written into a *script*, improving the reproducibility of workflows.
 
